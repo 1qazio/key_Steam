@@ -1,0 +1,10 @@
+C:\Users\1qazw\source\repos\key_Steam\key_Steam\bin\Debug\key_Steam.exe.config
+C:\Users\1qazw\source\repos\key_Steam\key_Steam\bin\Debug\key_Steam.exe
+C:\Users\1qazw\source\repos\key_Steam\key_Steam\bin\Debug\key_Steam.pdb
+C:\Users\1qazw\source\repos\key_Steam\key_Steam\obj\Debug\key_Steam.csprojAssemblyReference.cache
+C:\Users\1qazw\source\repos\key_Steam\key_Steam\obj\Debug\key_Steam.Form1.resources
+C:\Users\1qazw\source\repos\key_Steam\key_Steam\obj\Debug\key_Steam.Properties.Resources.resources
+C:\Users\1qazw\source\repos\key_Steam\key_Steam\obj\Debug\key_Steam.csproj.GenerateResource.cache
+C:\Users\1qazw\source\repos\key_Steam\key_Steam\obj\Debug\key_Steam.csproj.CoreCompileInputs.cache
+C:\Users\1qazw\source\repos\key_Steam\key_Steam\obj\Debug\key_Steam.exe
+C:\Users\1qazw\source\repos\key_Steam\key_Steam\obj\Debug\key_Steam.pdb
